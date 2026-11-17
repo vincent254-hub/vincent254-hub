@@ -32,7 +32,7 @@ Beyond my professional career, I'm a leader, entrepreneur, and visionary passion
 
 | Organization | My Position |
 |---|---|
-| Heroes Technical College, Nakuru | Software Engineer |
+| Heroes Technical College, Nakuru | Software Engineer, System Admin, IT Support Officer |
 | Phoenix | CEO |
 | Edufolio | Co-Founder |
 | HardwareHub | Founder |
